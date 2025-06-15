@@ -1,0 +1,13 @@
+<!-- public/event-logo.svg -->
+<svg width="200" height="50" viewBox="0 0 500 120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="500" height="120" fill="white" />
+  <!-- Calendar icon -->
+  <rect x="30" y="30" rx="10" ry="10" width="60" height="60" fill="#3B82F6" />
+  <circle cx="60" cy="60" r="20" fill="#1E3A8A" />
+  <path d="M50 60 l7 7 l13 -13" stroke="#FFFFFF" stroke-width="4" fill="none" />
+  
+  <!-- Text -->
+  <text x="110" y="75" font-family="Segoe UI, sans-serif" font-size="36" fill="#1F2937">
+    EventTracker
+  </text>
+</svg>
